@@ -1,0 +1,13 @@
+body {
+ background-image: url("paper.jpg");
+}
+
+h1, h2, p {
+  font-family: "Comic Relief"
+}
+
+.comic-relief-regular {
+  font-family: "Comic Relief", system-ui;
+  font-weight: 400;
+  font-style: normal;
+}
